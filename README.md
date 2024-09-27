@@ -1,15 +1,17 @@
 # TaskManager
 TaskManagement System
 
+
 it will first run it in the index.html page then after it will perform all the task
 After that the user can go to the signup page if user is new user else user can log in by their credential
  i am implememnt it by simply htnl,css,js,java
+ *very very important when you click signin or signup please make a doubleclick to perform action
  * more progress is neede but due to less time i am doing it by less work
  * if more time permit then i will do it backend by python framework
  * this is my commitment to the company
 
 userflow-:
-index.html->signup.html->Dashboard.html-->Taskmanager.html
+index.html->signup.html(click doubleclick)->Dashboard.html-->Taskmanager.html
 
 follow the picture
 ![Screenshot (59)](https://github.com/user-attachments/assets/edf1ba86-aba6-4ad8-8df0-391491fb57d5)
